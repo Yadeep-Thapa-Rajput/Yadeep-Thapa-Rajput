@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yadeep-Thapa-Rajput
 - 👀 I’m interested in Games and Python[not reptile.   :)   ]
-- 🌱 I’m currently learning Python and develop apps for Android and Windows
+- 🌱 I’m currently learning Python and aspire to develop apps for Android and Windows
 - 💞
 - 📫 How to reach me : Sorry! But not now. Later Sometime!
 
